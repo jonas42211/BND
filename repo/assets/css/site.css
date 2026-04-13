@@ -1,4 +1,6 @@
-body{
-    
-    background-color: brown;
+:root {
+--darkblue: #1e1c47;
+--blue: #2cd1c7;
+--dark: #111029;
 }
+
